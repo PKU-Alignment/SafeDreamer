@@ -49,11 +49,13 @@ The Architecture of SafeDreamer. (a) illustrates all components of SafeDreamer, 
 If you find our work helpful, please cite:
 
 ```bibtex
-@article{safedreamer,
-      title={SafeDreamer: Safe Reinforcement Learning with World Models}, 
-      author={Weidong Huang and Jiaming Ji and Borong Zhang and Chunhe Xia and Yaodong Yang},
-      journal={arXiv preprint arXiv:2307.07176},
-      year={2023},
+@inproceedings{
+safedreamer,
+title={SafeDreamer: Safe Reinforcement Learning with World Models},
+author={Weidong Huang and Jiaming Ji and Borong Zhang and Chunhe Xia and Yaodong Yang},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=tsE5HLYtYg}
 }
 ```
 
