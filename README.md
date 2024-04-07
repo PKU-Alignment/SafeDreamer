@@ -114,7 +114,7 @@ cd ..
 ```
 
 ### Step5: Evaluation using Checkpoints
-You can download the checkpoint from [Hugging Face](https://huggingface.co/Weidong-Huang/SafeDreamer/tree/main) and then run it locally without training from scratch. If you're looking to see if the code can run correctly, we recommend you download [the checkpoints of SafeDreamer(OSRP-Vector)](https://huggingface.co/Weidong-Huang/SafeDreamer/tree/main/safedreamer_osrp_vector), as it has smaller size:
+You can download the checkpoint from [Hugging Face](https://huggingface.co/Weidong-Huang/SafeDreamer/tree/main) and then run it locally without training from scratch. If you're looking to see if the code can run correctly, we recommend you download [the checkpoints of SafeDreamer(OSRP-Vector)](https://huggingface.co/Weidong-Huang/SafeDreamer/tree/main/safedreamer_osrp_vector), as it has a smaller size:
 
 
 
